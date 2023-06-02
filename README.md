@@ -2,10 +2,11 @@
 This is the final project to complete the Data Analyst Nanodegree at Udacity.
 
 ## Project Overview
-This project comprises two parts. In the first one, with the help of **Exploratory Data 
-Visualization**, I better understood the data I was working with. Meanwhile, the second 
-focused on **Explanatory Data Visualization** that I used to communicate my analysis 
-findings through a slide deck.
+This [project](Part_1_Exploratory_Dataviz.ipynb) comprises two parts. In the first one, 
+with the help of **Exploratory Data Visualization**, I better understood the data I was
+working with. Meanwhile, the second focused on **Explanatory Data Visualization** that 
+I used to communicate my analysis findings through a slide deck. To access the slides, 
+download the [file](Part_2_Explanatory_Dataviz.slides.html) and open it in a web browser.
 
 ### Data set
 
